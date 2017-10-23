@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IdadedeCachorro</string>
+    <string name="descobrir_idade">Descobrir Idade</string>
+    <string name="Text_fixo">Digite a idade do cachorrinho para saber a idade dele referente a anos humano !</string>
+</resources>
